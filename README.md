@@ -19,7 +19,7 @@ Apasionado por descubrir el poder de los datos y transformarlos en información 
 
 ### 📫 **Cómo contactarme:**
 - Correo: jeanpier.ac98@gmail.com
-- LinkedIn: [linkedin.com/in/jeanpier-aguilar](www.linkedin.com/in/jeanpierac)
+- LinkedIn: www.linkedin.com/in/jeanpierac
 
 ### ⚡ **Dato curioso:**
 - 🎮 Me apasionan los videojuegos y me encanta explorar cómo los datos impulsan la industria del entretenimiento.
