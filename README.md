@@ -1,16 +1,25 @@
-## Hi there 👋
+## ¡Hola, soy Jeanpier Aguilar Cubas! 👋
 
-<!--
-**JeanpierAC/JeanpierAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Datos en Formación 📊🔍**  
+Apasionado por descubrir el poder de los datos y transformarlos en información valiosa. Actualmente estoy construyendo mi carrera en el mundo del análisis de datos, con un enfoque en la creación de soluciones que aporten valor a las organizaciones a través de la inteligencia de negocios.
 
-Here are some ideas to get you started:
+### 💡 **Lo que Aprendido:**
+- 📊 **Excel, Power BI y Power Query:** Experto en análisis de datos y creación de dashboards interactivos para la toma de decisiones.
+- 🛠️ **MySQL:** Manejo de bases de datos relacionales y consultas optimizadas.
+- 📈 **Looker Studio:** Visualización de datos clara y efectiva, adaptada a diferentes públicos.
+- 🐍 **Python:** Conocimientos básicos en Python, explorando automatización y análisis avanzado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **En qué estoy trabajando:**
+- 🌱 **Aprendiendo constantemente:** Mejorando mis habilidades en ciencia de datos y técnicas avanzadas de análisis.
+- 🔭 **Proyectos en desarrollo:** Estoy desarrollando dashboards interactivos y realizando análisis de bases de datos reales.
+
+### 🌟 **Busco colaborar en:**
+- Proyectos de análisis de datos, automatización de reportes o visualización de datos.
+- Equipos donde pueda aplicar mis conocimientos y aprender nuevas herramientas y técnicas.
+
+### 📫 **Cómo contactarme:**
+- Correo: jeanpier.ac98@gmail.com
+- LinkedIn: [linkedin.com/in/jeanpier-aguilar](www.linkedin.com/in/jeanpierac)
+
+### ⚡ **Dato curioso:**
+- Me encanta la música y, cuando no estoy analizando datos, disfruto descubriendo nuevos géneros y artistas.
