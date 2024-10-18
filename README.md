@@ -7,7 +7,7 @@ Apasionado por descubrir el poder de los datos y transformarlos en información 
 - 📊 **Excel, Power BI y Power Query:** Experto en análisis de datos y creación de dashboards interactivos para la toma de decisiones.
 - 🛠️ **MySQL:** Manejo de bases de datos relacionales y consultas optimizadas.
 - 📈 **Looker Studio:** Visualización de datos clara y efectiva, adaptada a diferentes públicos.
-- 🐍 **Python:** Conocimientos básicos en Python, explorando automatización y análisis.
+- 🐍 **Python:** He trabajado con bibliotecas como Pandas, Numpy, Matplotlib y Seaborn, enfocándome en el análisis exploratorio de datos.
 
 ### 🚀 **En qué estoy trabajando:**
 - 🌱 **Aprendiendo constantemente:** Mejorando mis habilidades en ciencia de datos y técnicas avanzadas de análisis.
