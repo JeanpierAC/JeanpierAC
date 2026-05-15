@@ -1,25 +1,70 @@
-## ¡Hola, soy Jeanpier Aguilar Cubas! 👋
+## ¡Hola, soy Ivan Jeanpier Aguilar Cubas! 👋
 
-**Analista de Datos en Formación 📊🔍**  
-Apasionado por descubrir el poder de los datos y transformarlos en información valiosa. Actualmente estoy construyendo mi carrera en el mundo del análisis de datos, con un enfoque en la creación de soluciones que aporten valor a las organizaciones a través de la inteligencia de negocios.
+Bachiller en Ciencias de la Computación con experiencia en análisis de datos, soporte tecnológico y validación de información. He trabajado en la elaboración de reportes, seguimiento de indicadores y optimización de procesos mediante herramientas digitales. Asimismo, cuento con experiencia en testing manual y automatización básica de APIs REST utilizando Postman y Karate DSL.
 
-### 💡 **Lo que he Aprendido:**
-- 📊 **Excel, Power BI y Power Query:** Experto en análisis de datos y creación de dashboards interactivos para la toma de decisiones.
-- 🛠️ **MySQL:** Manejo de bases de datos relacionales y consultas optimizadas.
-- 📈 **Looker Studio:** Visualización de datos clara y efectiva, adaptada a diferentes públicos.
-- 🐍 **Python:** He trabajado con bibliotecas como Pandas, Numpy, Matplotlib y Seaborn, enfocándome en el análisis exploratorio de datos.
+Poseo conocimientos en Excel, Power BI, SQL, Python y herramientas tecnológicas como Jira, Git y GitHub. Me caracterizo por mi pensamiento analítico, atención al detalle, capacidad de aprendizaje y adaptación a entornos dinámicos orientados a resultados.
 
-### 🚀 **En qué estoy trabajando:**
-- 🌱 **Aprendiendo constantemente:** Mejorando mis habilidades en ciencia de datos y técnicas avanzadas de análisis.
-- 🔭 **Proyectos en desarrollo:** Estoy desarrollando dashboards interactivos y realizando análisis de bases de datos reales.
+---
 
-### 🌟 **Busco colaborar en:**
-- Proyectos de análisis de datos, automatización de reportes o visualización de datos.
-- Equipos donde pueda aplicar mis conocimientos y aprender nuevas herramientas y técnicas.
+## 💡 Tecnologías y Herramientas
 
-### 📫 **Cómo contactarme:**
-- Correo: jeanpier.ac98@gmail.com
-- LinkedIn: www.linkedin.com/in/jeanpierac
+### 📊 Análisis de Datos
+- Excel
+- Power BI
+- Power Query
+- Looker Studio
+- SQL
+- MySQL
+- SQL Server
 
-### ⚡ **Dato curioso:**
-- 🎮 Me apasionan los videojuegos y me encanta explorar cómo los datos impulsan la industria del entretenimiento.
+### 🧪 Testing y QA
+- Testing Manual
+- Postman
+- Karate DSL
+- Cypress (básico)
+- Validación de APIs REST
+- Diseño y ejecución de casos de prueba
+- Jira
+- Scrum y Kanban
+
+### 💻 Programación
+- Python
+- Java
+- JavaScript
+- Git y GitHub
+- Maven
+- JUnit 5
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔹 Proyecto QA – Automatización de APIs con Karate DSL
+- Automatización de pruebas API sobre Swagger Petstore.
+- Validación de endpoints REST y respuestas JSON.
+- Creación de escenarios Happy Path y Unhappy Path.
+- Uso de Karate DSL, Gherkin, Maven, JUnit 5 y GitHub.
+
+### 🔹 Dashboard Financiero – Power BI
+- Desarrollo de dashboard interactivo para análisis de ingresos, costos y disponibilidad por producto.
+- Creación de métricas y visualizaciones dinámicas en Power BI.
+- Transformación y modelado de datos para generación de reportes.
+- Análisis de indicadores para apoyo en la toma de decisiones.
+
+---
+
+## 🌱 Actualmente
+- Fortaleciendo mis conocimientos en QA Automation y análisis de datos.
+- Desarrollando proyectos prácticos con APIs REST, Power BI y SQL.
+- Aprendiendo mejores prácticas de automatización y metodologías ágiles.
+
+---
+
+## 📫 Contacto
+- 📧 Correo: jeanpier.ac98@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jeanpierac
+
+---
+
+## ⚡ Dato curioso
+🎮 Me apasionan los videojuegos y la tecnología, especialmente cómo los datos y el software impactan en la experiencia de los usuarios.
